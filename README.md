@@ -11,11 +11,11 @@
 
 - 💬 Exploring **Data Structures and Algorithms**
 
-- 👨‍💻 Portfolio [https://abhhirram-portfolio.vercel.app/](https://abhhirram-portfolio.vercel.app/)
+- 👨‍💻 Portfolio [Jyothika_Koppula]([https://abhhirram-portfolio.vercel.app/](https://jyothik-koppula-portfolio.vercel.app/))
 
 - 📫 How to reach me **jyothikakoppula11@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1Qvb-O4-0CpvzRn570rlJrwNi-4oUTFLU/view?usp=drive_link](https://drive.google.com/file/d/1Qvb-O4-0CpvzRn570rlJrwNi-4oUTFLU/view?usp=drive_link)
+- 📄 Resume [Resume](https://drive.google.com/file/d/19oiKixDkHwTaIrHw5sVgrzvkb69S9TDn/view))
 
 <h3 align="left">Education:</h3>
 REVA UNIVERSITY , Banglore (2021-2025)
