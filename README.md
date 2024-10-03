@@ -41,7 +41,7 @@ REVA UNIVERSITY , Banglore (2021-2025)
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JyothikKOPPULA&show_icons=true&locale=en&layout=compact" alt="JyothikKOPPULA" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=JyothikKOPPULAi&show_icons=true&locale=en" alt="JyothikKOPPULA" />
+      <img src="https://github-readme-stats.vercel.app/api?username=JyothikKOPPULA&show_icons=true&locale=en" alt="JyothikKOPPULA" />
     </td>
   </tr>
 </table>
