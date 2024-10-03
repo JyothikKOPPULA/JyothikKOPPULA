@@ -1,5 +1,5 @@
 <img align="center" width="1000" height="900"
-    src="https://camo.githubusercontent.com/0bccdf21b505ef08cfc6b21d491d679339e5611f0ac12d1aeb6745f1086ddb9e/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133)"
+    src="https://imarticus.org/blog/wp-content/uploads/2020/09/vsdq.gif"
     alt="coding emoji">
 
 <h1 align="center">Hi 👋, I'm Jyothika Koppula</h1>
