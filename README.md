@@ -1,5 +1,5 @@
 <img align="center" width="1000" height="300"
-    src="!https://github.com/user-attachments/assets/25729aa4-a3d5-4daf-b61a-2243f6588b0e"
+    src="https://github.com/user-attachments/assets/25729aa4-a3d5-4daf-b61a-2243f6588b0e"
     alt="coding emoji">
 
 <h1 align="center">Hi 👋, I'm Jyothika Koppula</h1>
