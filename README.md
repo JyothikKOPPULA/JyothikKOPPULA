@@ -1,4 +1,4 @@
-<img align="center" width="1000" height="300"
+<img align="center" width="1000" height="500"
     src="https://github.com/user-attachments/assets/25729aa4-a3d5-4daf-b61a-2243f6588b0e"
     alt="coding emoji">
 
