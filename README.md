@@ -1,6 +1,4 @@
-<img align="center" width="1000" height="900"
-    src="https://imarticus.org/blog/big-data-engineer-salary-how-much-can-you-earn-as-a-big-data-engineer/"
-    alt="coding emoji">
+<!-- <img align="center" width="1000" height="900" src="https://imarticus.org/blog/big-data-engineer-salary-how-much-can-you-earn-as-a-big-data-engineer/" alt="coding emoji"> -->
 
 <h1 align="center">Hi 👋, I'm Jyothika Koppula</h1>
 <h3 align="center">CSE Student at Reva'25 📖 | Web Developer 👨‍💻 </h3>
