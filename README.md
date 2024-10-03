@@ -5,9 +5,9 @@
 <h1 align="center">Hi 👋, I'm Jyothika Koppula</h1>
 <h3 align="center">CSE Student at Reva'25 📖 | Web Developer 👨‍💻 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhhirramveedhi&label=Profile%20views&color=0e75b6&style=flat" alt="abhhirramveedhi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhhirramveedhi&label=Profile%20views&color=0e75b6&style=flat" alt="jyothikaKoppula" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhhirramveedhi" alt="abhhirramveedhi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhhirramveedhi" alt="jyothikaKoppula" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development , Machine Learning**
 
