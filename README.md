@@ -11,7 +11,7 @@
 
 - 💬 Exploring **Data Structures and Algorithms**
 
-- 👨‍💻 Portfolio [Jyothika_Koppula]([https://abhhirram-portfolio.vercel.app/](https://jyothik-koppula-portfolio.vercel.app/))
+- 👨‍💻 Portfolio [Jyothika_Koppula](https://abhhirram-portfolio.vercel.app/](https://jyothik-koppula-portfolio.vercel.app/))
 
 - 📫 How to reach me **jyothikakoppula11@gmail.com**
 
