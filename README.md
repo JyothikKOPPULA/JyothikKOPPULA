@@ -3,7 +3,7 @@
     alt="coding emoji">
 
 <h1 align="center">Hi 👋, I'm Jyothika Koppula</h1>
-<h3 align="center">IT Student at Reva'25 📖 | Web Developer 👨‍💻 </h3>
+<h3 align="center">CSE Student at Reva'25 📖 | Web Developer 👨‍💻 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhhirramveedhi&label=Profile%20views&color=0e75b6&style=flat" alt="abhhirramveedhi" /> </p>
 
