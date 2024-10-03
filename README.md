@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Jyothika Koppula</h1>
 <h3 align="center">CSE Student at Reva'25 📖 | Web Developer 👨‍💻 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhhirramveedhi&label=Profile%20views&color=0e75b6&style=flat" alt="jyothikaKoppula" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aJyothikKOPPULA&label=Profile%20views&color=0e75b6&style=flat" alt="jyothikaKoppula" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhhirramveedhi" alt="jyothikaKoppula" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JyothikKOPPULA" alt="jyothikaKoppula" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development , Machine Learning**
 
@@ -38,10 +38,10 @@ REVA UNIVERSITY , Banglore (2021-2025)
 <table style="width:1000px;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhhirramveedhi&show_icons=true&locale=en&layout=compact" alt="abhhirramveedhi" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JyothikKOPPULA&show_icons=true&locale=en&layout=compact" alt="JyothikKOPPULA" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=abhhirramveedhi&show_icons=true&locale=en" alt="abhhirramveedhi" />
+      <img src="https://github-readme-stats.vercel.app/api?username=JyothikKOPPULAi&show_icons=true&locale=en" alt="JyothikKOPPULA" />
     </td>
   </tr>
 </table>
