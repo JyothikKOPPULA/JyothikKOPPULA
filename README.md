@@ -1,5 +1,5 @@
 <img align="center" width="1000" height="900"
-    src="[https://imarticus.org/blog/wp-content/uploads/2020/09/vsdq.gif](https://imarticus.org/blog/big-data-engineer-salary-how-much-can-you-earn-as-a-big-data-engineer/)"
+    src="https://imarticus.org/blog/big-data-engineer-salary-how-much-can-you-earn-as-a-big-data-engineer/"
     alt="coding emoji">
 
 <h1 align="center">Hi 👋, I'm Jyothika Koppula</h1>
