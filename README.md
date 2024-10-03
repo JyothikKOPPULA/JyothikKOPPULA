@@ -29,9 +29,9 @@ REVA UNIVERSITY , Banglore (2021-2025)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yothika-koppula-0429862a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yothika-koppula-0429862a7/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yothika-koppula-0429862a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yothika-koppula-0429862a7/" height="30" width="40" /></a>
 <a href="https://instagram.com/jyothika__koppula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jyothika Koppula" height="30" width="40" /></a>
-<a href="[https://www.leetcode.com/koppula_jyothika](https://leetcode.com/u/jyothika__koppula/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jyothika__koppula" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/jyothika__koppula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jyothika__koppula" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
