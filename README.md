@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JyothikKOPPULA" alt="jyothikaKoppula" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development , Machine Learning**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Exploring **Data Structures and Algorithms**
 
